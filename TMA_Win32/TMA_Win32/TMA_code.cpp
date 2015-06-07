@@ -15,17 +15,14 @@ unsigned char BL(int, int);
 unsigned char RD(int i, int j)
 {
 	// YOUR CODE HERE
-	return i % 255;
 }
 unsigned char GR(int i, int j)
 {
 	// YOUR CODE HERE
-	return i % 255;
 }
 unsigned char BL(int i, int j)
 {
 	// YOUR CODE HERE
-	return i % 255;
 }
 
 LRESULT CALLBACK WinProc(HWND hWnd, UINT Msg, WPARAM wParam, LPARAM lParam)
